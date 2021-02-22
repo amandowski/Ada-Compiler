@@ -1,0 +1,11 @@
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\Lewandowski A3\Lewandowski\bin\Debug\netcoreapp3.1\LewandowskiA3.exe
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\Lewandowski A3\Lewandowski\bin\Debug\netcoreapp3.1\LewandowskiA3.deps.json
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\Lewandowski A3\Lewandowski\bin\Debug\netcoreapp3.1\LewandowskiA3.runtimeconfig.json
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\Lewandowski A3\Lewandowski\bin\Debug\netcoreapp3.1\LewandowskiA3.runtimeconfig.dev.json
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\Lewandowski A3\Lewandowski\bin\Debug\netcoreapp3.1\LewandowskiA3.dll
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\Lewandowski A3\Lewandowski\bin\Debug\netcoreapp3.1\LewandowskiA3.pdb
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\Lewandowski A3\Lewandowski\obj\Debug\netcoreapp3.1\LewandowskiA3.csprojAssemblyReference.cache
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\Lewandowski A3\Lewandowski\obj\Debug\netcoreapp3.1\LewandowskiA3.AssemblyInfoInputs.cache
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\Lewandowski A3\Lewandowski\obj\Debug\netcoreapp3.1\LewandowskiA3.AssemblyInfo.cs
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\Lewandowski A3\Lewandowski\obj\Debug\netcoreapp3.1\LewandowskiA3.dll
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\Lewandowski A3\Lewandowski\obj\Debug\netcoreapp3.1\LewandowskiA3.pdb
