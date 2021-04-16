@@ -1,0 +1,13 @@
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\bin\Debug\netcoreapp3.1\LewandowskiA5CR.exe
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\bin\Debug\netcoreapp3.1\LewandowskiA5CR.deps.json
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\bin\Debug\netcoreapp3.1\LewandowskiA5CR.runtimeconfig.json
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\bin\Debug\netcoreapp3.1\LewandowskiA5CR.runtimeconfig.dev.json
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\bin\Debug\netcoreapp3.1\LewandowskiA5CR.dll
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\bin\Debug\netcoreapp3.1\LewandowskiA5CR.pdb
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\obj\Debug\netcoreapp3.1\LewandowskiA5CR.csprojAssemblyReference.cache
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\obj\Debug\netcoreapp3.1\LewandowskiA5CR.AssemblyInfoInputs.cache
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\obj\Debug\netcoreapp3.1\LewandowskiA5CR.AssemblyInfo.cs
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\obj\Debug\netcoreapp3.1\LewandowskiA5CR.csproj.CoreCompileInputs.cache
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\obj\Debug\netcoreapp3.1\LewandowskiA5CR.dll
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\obj\Debug\netcoreapp3.1\LewandowskiA5CR.pdb
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA5CR\LewandowskiA5CR\obj\Debug\netcoreapp3.1\LewandowskiA5CR.genruntimeconfig.cache
