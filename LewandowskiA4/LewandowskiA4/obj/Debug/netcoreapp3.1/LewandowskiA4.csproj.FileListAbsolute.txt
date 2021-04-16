@@ -1,0 +1,13 @@
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\bin\Debug\netcoreapp3.1\LewandowskiA4.exe
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\bin\Debug\netcoreapp3.1\LewandowskiA4.deps.json
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\bin\Debug\netcoreapp3.1\LewandowskiA4.runtimeconfig.json
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\bin\Debug\netcoreapp3.1\LewandowskiA4.runtimeconfig.dev.json
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\bin\Debug\netcoreapp3.1\LewandowskiA4.dll
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\bin\Debug\netcoreapp3.1\LewandowskiA4.pdb
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\obj\Debug\netcoreapp3.1\LewandowskiA4.csprojAssemblyReference.cache
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\obj\Debug\netcoreapp3.1\LewandowskiA4.AssemblyInfoInputs.cache
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\obj\Debug\netcoreapp3.1\LewandowskiA4.AssemblyInfo.cs
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\obj\Debug\netcoreapp3.1\LewandowskiA4.csproj.CoreCompileInputs.cache
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\obj\Debug\netcoreapp3.1\LewandowskiA4.dll
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\obj\Debug\netcoreapp3.1\LewandowskiA4.pdb
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2021 Spring\CSc 446\LewandowskiA4\LewandowskiA4\obj\Debug\netcoreapp3.1\LewandowskiA4.genruntimeconfig.cache
